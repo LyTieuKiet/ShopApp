@@ -57,6 +57,14 @@ To start using the application, follow these steps:
 ## System Architecture
 Here is an overview of the system architecture:
 ![Kiến trúc hệ thống ShopApp](https://github.com/LyTieuKiet/ShopApp/assets/146381447/d4a4ed92-9f69-4e27-a8dc-83382a112d7c)
+Aspect Oriented Programing in Java Springboot:
+![Aspect Oriented Programing in Java Springboot](https://github.com/LyTieuKiet/ShopApp/assets/146381447/d1f29adb-56a9-4ce2-8486-f8f7e61b3f65)
+JWT Token:
+![Đăng nhập nhiều devices và giới hạn số lượng token  MConverter eu](https://github.com/LyTieuKiet/ShopApp/assets/146381447/dc2f5bd7-2f5b-4219-8688-8611bc868ed1)
+Spring Security 6:
+![Giải thích về Spring Security 6 và JWT Token  MConverter eu](https://github.com/LyTieuKiet/ShopApp/assets/146381447/81bbe8e4-9e92-4584-9032-5111d8f2df7f)
+
+
 
 ## Further help
 
